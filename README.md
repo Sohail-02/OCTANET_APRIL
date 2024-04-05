@@ -1,1 +1,2 @@
-# OCTANET_APRIL
+# Travelize
+A simple landing page with nature themed
